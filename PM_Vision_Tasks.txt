@@ -1,7 +1,7 @@
 # ChatsAndGames
 Create design for:
 Basic Chat with Java backend
-and Reac\ JavaScript in frontend
+and JavaScript in frontend (ReactJS or AngularJS or VueJS or any other framework)
 include phones abilities
 that for version 1
 in version 2, add the game to the chat, something like a chess game that uses the chat platform or the opposite

@@ -1,2 +1,2 @@
 # ChatsAndGames
-Chats and games project. Client-server, multi threads, sokets, and more
+Chats and games project. Client-server, multi threads, sockets, and more
